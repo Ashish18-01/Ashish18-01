@@ -1,16 +1,27 @@
-## Hi there 👋
+$ whoami
+Ashish Yadav — M.Tech CSE · Full-Stack Developer · DSA Enthusiast
 
-<!--
-**Ashish18-01/Ashish18-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ uname -a
+I build software, solve problems, and keep learning
+how systems work behind the screen.
+M.Tech Computer Science · MERN Developer · DSA
+Software Engineering · Problem Solving · System Design
 
-Here are some ideas to get you started:
+$ top -o skills
+C++ JavaScript React Node.js Express.js
+MongoDB SQL Git GitHub REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ git log --oneline
+QueueIT — Multi-tenant Virtual Queue Management System
+Student Management System — MERN full-stack application
+Blockchain — Research workflow platform(currently working)
+
+$ echo $CURRENTLY
+🎓 M.Tech Computer Science
+💻 Building full-stack applications
+🧠 Always Practicing DSA & problem solving
+🔬 Working on research & scalable systems
+
+$ cat ./connect
+https://leetcode.com/u/ashish18yadav/
+www.linkedin.com/in/ashish-yadav-07504321b
