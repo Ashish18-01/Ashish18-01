@@ -23,6 +23,6 @@ $ echo $CURRENTLY
 🔬 Working on research & scalable systems
 
 $ cat ./connect
-https://leetcode.com/u/ashish18yadav/
 
+https://leetcode.com/u/ashish18yadav/
 www.linkedin.com/in/ashish-yadav-07504321b
